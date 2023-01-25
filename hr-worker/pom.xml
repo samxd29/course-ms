@@ -50,6 +50,7 @@
 <!--				spring-cloud-starter-netflix-eureka-client-->
 <!--			</artifactId>-->
 <!--		</dependency>-->
+<!--		Alterações-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
